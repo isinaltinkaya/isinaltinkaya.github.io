@@ -5,8 +5,8 @@ layout: default
 
 ## Research Interest
 
-I am interested in bioinformatics, population genetics and statistical genomics
+I am interested in bioinformatics, population genetics and statistical genomics.
 
-## Current Projects
+## Ongoing Projects
 
 [github](github.com/isinaltinkaya)
