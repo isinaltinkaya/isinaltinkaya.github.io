@@ -1,4 +1,4 @@
-title: Isin Altinkaya
+title: Isin Altinkaya, BSc c.
 url: "https://isinaltinkaya.github.io"
 baseurl: ""
 
@@ -19,7 +19,7 @@ nav:
  - name: "About"
    link: "/researcher/"
  - name: "Resume"
-   link: "resume.pdf"
+   link: "IsinAltinkaya_CV.pdf"
  - name: "Contact"
    link: "contact"
 

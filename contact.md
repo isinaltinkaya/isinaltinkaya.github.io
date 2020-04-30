@@ -3,9 +3,8 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+* Email: [isinaltinkaya@gmail.com](mailto:isinaltinkaya@gmail.com)
 
-* Phone: [+91-123123](tel:+91-123123)
 
 ---
 
@@ -21,6 +20,5 @@ is_contact: true
 
 ## Social
 
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+1. [Twitter](#)
+2. [Google+](#)
