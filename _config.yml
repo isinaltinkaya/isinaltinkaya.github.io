@@ -1,6 +1,6 @@
 title: Işın Altınkaya, BSc c.
 url: "https://isinaltinkaya.github.io"
-baseurl: "/"
+baseurl: "https://isinaltinkaya.github.io"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
@@ -16,8 +16,6 @@ sass:
     sass_dir: _sass
 
 nav:
- - name: "About Me"
-   link: "index"
  - name: "CV"
    link: "IsinAltinkaya_CV.pdf"
  - name: "Research"

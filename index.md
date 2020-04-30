@@ -2,9 +2,12 @@
 layout: default
 ---
 
-## About Me
+## Hi! I am Isin.
 
 <!--<img class="profile-picture" src="sherlock.jpg">-->
 
-Hi! I am Isin. I am a senior undergraduate student at Hacettepe University, Department of Biology. I am interested in bioinformatics, population genetics and statistical genomics
+I am a senior undergraduate student at Hacettepe University, Department of Biology. 
+
+I am interested in bioinformatics, population genetics and statistical genomics.
+
 
