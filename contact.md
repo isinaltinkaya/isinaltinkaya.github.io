@@ -9,4 +9,4 @@ Email: [isinaltinkaya@gmail.com](mailto:isinaltinkaya@gmail.com)
 
 ## Social
 
-[Twitter](http://www.twitter.com/isinaltinkaya)
+<a href="https://www.twitter.com/isinaltinkaya">Twitter</a> 

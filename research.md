@@ -9,4 +9,5 @@ I am interested in bioinformatics, population genetics and statistical genomics.
 
 ## Ongoing Projects
 
-[github](github.com/isinaltinkaya)
+
+<a href="https://www.github.com/isinaltinkaya">GitHub</a> 
