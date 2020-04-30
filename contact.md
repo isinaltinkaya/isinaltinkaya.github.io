@@ -3,10 +3,10 @@ layout: default
 is_contact: true
 ---
 
-* Email: [isinaltinkaya@gmail.com](mailto:isinaltinkaya@gmail.com)
+Email: [isinaltinkaya@gmail.com](mailto:isinaltinkaya@gmail.com)
 
 ---
 
 ## Social
 
-[Twitter](twitter.com/isinaltinkaya)
+[Twitter](http://www.twitter.com/isinaltinkaya)
