@@ -1,14 +1,14 @@
 title: Isin Altinkaya
-#url: "https://ankitsultana.com"
-baseurl: "/researcher"
+url: "https://isinaltinkaya.github.io"
+baseurl: ""
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
 
 tracking_id: #
 
-footer: yes
-footer_url: "https://github.com/isinaltinkaya"
+footer: no
+#footer_url: "https://github.com/isinaltinkaya"
 #footer_text: "Page design by Ankit Sultana"
 
 sass:
@@ -22,3 +22,5 @@ nav:
    link: "resume.pdf"
  - name: "Contact"
    link: "contact"
+
+remote_theme: ankitsultana/researcher@gem
