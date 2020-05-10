@@ -8,7 +8,7 @@ layout: default
 
 I am a senior undergraduate student at Hacettepe University, Department of Biology. 
 
-
+I am interested in bioinformatics and population genomics, more specifically developing methods & statistical frameworks. Evolutionary biology is fascinating yet has very challenging computational questions!
 
 
 ---

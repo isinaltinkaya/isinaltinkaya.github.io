@@ -17,10 +17,12 @@ sass:
 
 nav:
  - name: "CV"
-   link: "IsinAltinkaya_CV.pdf"
+   link: "cv"
  - name: "Research"
    link: "research"
  - name: "Contact"
    link: "contact"
+ - name: "Blog"
+   link: "blog"
 
 remote_theme: ankitsultana/researcher@gem
