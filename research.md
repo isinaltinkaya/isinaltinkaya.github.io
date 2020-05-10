@@ -6,8 +6,11 @@ layout: default
 ## Research Interest
 
 -> Bioinformatics
+
 -> Population genetics
+
 -> Statistical genomics 
+
 -> Evolutionary biology
 
 

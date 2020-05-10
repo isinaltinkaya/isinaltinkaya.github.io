@@ -20,9 +20,9 @@ nav:
    link: "cv"
  - name: "Research"
    link: "research"
- - name: "Contact"
-   link: "contact"
  - name: "Blog"
    link: "blog"
+ - name: "Contact"
+   link: "contact"
 
 remote_theme: ankitsultana/researcher@gem
