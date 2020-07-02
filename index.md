@@ -12,4 +12,4 @@ I am interested in bioinformatics and population genomics, more specifically dev
 
 
 ---
-<img src="http://ghchart.rshah.org/isinaltinkaya"/>
+<img src="https//ghchart.rshah.org/isinaltinkaya"/>
