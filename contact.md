@@ -8,9 +8,5 @@ E-mail: [![Gmail Badge](https://img.shields.io/badge/-isinaltinkaya@gmail.com-c1
 
 ---
 
-<a href="https://twitter.com/isinaltinkaya">
-  <img class="icon" align="left" alt="Isin Altinkaya | Twitter" src="https://img.icons8.com/cotton/64/000000/twitter.png" />
-</a>
-<a href="https://www.instagram.com/isinaltinkaya/">
-  <img class="icon" align="left" alt="Isin Altinkaya's Instagram" src="https://img.icons8.com/cotton/64/000000/instagram-new.png" />
-</a>
+<a href="https://twitter.com/isinaltinkaya">Twitter</a>
+<a href="https://www.instagram.com/isinaltinkaya/">Instagram</a>
