@@ -7,6 +7,9 @@ Email: [isinaltinkaya@gmail.com](mailto:isinaltinkaya@gmail.com)
 
 ---
 
-## Social
-
-<a href="https://www.twitter.com/isinaltinkaya">Twitter</a> 
+<a href="https://twitter.com/isinaltinkaya">
+  <img align="left" alt="Isin Altinkaya | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.instagram.com/isinaltinkaya/">
+  <img align="left" alt="Isin Altinkaya's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
