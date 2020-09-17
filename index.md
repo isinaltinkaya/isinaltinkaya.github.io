@@ -6,9 +6,9 @@ layout: default
 
 <!--<img class="profile-picture" src="sherlock.jpg">-->
 
-I recently graduated from Biology at Hacettepe University, Turkey.
+I am a research assistant at the University of Copenhagen under the supervision of Thorfinn Sand Korneliussen and Rasmus Nielsen.
 
-I am interested in bioinformatics and population genomics, more specifically developing methods & statistical frameworks. Evolutionary biology is fascinating yet has very challenging computational questions!
+I am interested in evolutionary bioinformatics, population genetics and statistical genomics.
 
 
 ---
