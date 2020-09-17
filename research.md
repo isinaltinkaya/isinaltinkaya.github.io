@@ -3,13 +3,5 @@ layout: default
 ---
 
 
-## Research Interest
 
--> Evolutionary bioinformatics
-
--> Population genetics
-
--> Statistical genomics 
-
-
-<a href="https://www.github.com/isinaltinkaya">GitHub</a> 
+<a href="https://www.github.com/isinaltinkaya">Check my GitHub profile!</a> 
