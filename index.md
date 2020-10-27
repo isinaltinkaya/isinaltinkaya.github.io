@@ -12,4 +12,3 @@ I am interested in evolutionary bioinformatics, population genetics and statisti
 
 ---
 <img src="https://ghchart.rshah.org/isinaltinkaya"/>
-<img src="https://static.fsf.org/nosvn/associate/crm/5212605.png">
