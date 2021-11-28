@@ -2,7 +2,8 @@
 layout: default
 ---
 
-## Hi! I am Isin.
+## Hi! I am Isin (ɯʃɯn in IPA)
+
 
 <!--<img class="profile-picture" src="sherlock.jpg">-->
 
