@@ -7,9 +7,10 @@ layout: default
 
 <!--<img class="profile-picture" src="sherlock.jpg">-->
 
-I am a PhD fellow at the University of Copenhagen under the supervision of Thorfinn Sand Korneliussen and Rasmus Nielsen.
+I am a Ph.D. fellow at the University of Copenhagen, supervised by Thorfinn Sand Korneliussen and Rasmus Nielsen.
 
-I am interested in evolutionary bioinformatics, population genetics and statistical genomics.
+I am interested in bioinformatics, population genetics and statistical genomics. More specifically, my research interest revolves around developing novel methods and statistical frameworks aiming to disentangle evolutionary histories of populations, and implementing these methods into fast and efficient software.
+
 
 ---
 <img src="https://ghchart.rshah.org/isinaltinkaya"/>
