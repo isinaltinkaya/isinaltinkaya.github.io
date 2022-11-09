@@ -24,5 +24,6 @@ nav:
    link: "blog"
  - name: "Contact"
    link: "contact"
+   link: "misc"
 
 remote_theme: ankitsultana/researcher@gem
