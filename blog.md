@@ -7,6 +7,9 @@ layout: default
 
 
 <html>
+  
+  
+    <iframe src="https://genomic.social/@isinaltinkaya/109403399700262180/embed" class="mastodon-embed"style="display: flex; max-width: 550px; width: 100%; margin-top: 10px; margin-bottom: 10px;" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://genomic.social/embed.js" async="async"></script>
 
   
   <iframe src="https://genomic.social/@isinaltinkaya/109403399700262180/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://genomic.social/embed.js" async="async"></script>
