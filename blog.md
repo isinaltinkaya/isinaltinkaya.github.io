@@ -7,6 +7,13 @@ layout: default
 
 
 <html>
+
+  
+  <iframe src="https://genomic.social/@isinaltinkaya/109403399700262180/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://genomic.social/embed.js" async="async"></script>
+  
+  <iframe src="https://genomic.social/@isinaltinkaya/109403400221652602/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://genomic.social/embed.js" async="async"></script>
+
+    <blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr">I genuinely enjoy writing. Writing feels like everything I have been trying to hold in my brain spills down onto the paper. You set the pieces of information free, and help them find their relatives and acquaintances to form a structure together. Eventually, they find their home.</p>&mdash; Isin Altinkaya (@IsinAltinkaya) <a href="https://twitter.com/IsinAltinkaya/status/1596050821363507202?ref_src=twsrc%5Etfw">November 25, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
   
   <blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr">I made a drawing for my PhD day talk. Meet my little friend Helix, the little DNA guy :) <a href="https://twitter.com/hashtag/phdchat?src=hash&amp;ref_src=twsrc%5Etfw">#phdchat</a> <a href="https://twitter.com/hashtag/AcademicTwitter?src=hash&amp;ref_src=twsrc%5Etfw">#AcademicTwitter</a> <a href="https://twitter.com/hashtag/AcademicChatte?src=hash&amp;ref_src=twsrc%5Etfw">#AcademicChatte</a> <a href="https://twitter.com/hashtag/academicdrawing?src=hash&amp;ref_src=twsrc%5Etfw">#academicdrawing</a> <a href="https://t.co/OPNVZ2JqDd">pic.twitter.com/OPNVZ2JqDd</a></p>&mdash; Isin Altinkaya (@IsinAltinkaya) <a href="https://twitter.com/IsinAltinkaya/status/1535177340141158400?ref_src=twsrc%5Etfw">June 10, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
   
