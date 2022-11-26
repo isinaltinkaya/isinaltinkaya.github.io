@@ -8,13 +8,9 @@ layout: default
 
 <html>
   
+  <blockquote class="twitter-tweet" data-lang="en" data-theme="dark"><p lang="en" dir="ltr">“People confuse programming with coding. Coding is to programming what typing is to writing. Writing is something that involves mental effort. You’re thinking about what you’re going to say. The words have some importance, but in some sense even they are secondary to the ideas.1/</p>&mdash; Isin Altinkaya (@IsinAltinkaya) <a href="https://twitter.com/IsinAltinkaya/status/1594747433703047170?ref_src=twsrc%5Etfw">November 21, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
   
-    <iframe src="https://genomic.social/@isinaltinkaya/109403399700262180/embed" class="mastodon-embed"style="display: flex; max-width: 550px; width: 100%; margin-top: 10px; margin-bottom: 10px;" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://genomic.social/embed.js" async="async"></script>
-
-  
-  <iframe src="https://genomic.social/@isinaltinkaya/109403399700262180/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://genomic.social/embed.js" async="async"></script>
-  
-  <iframe src="https://genomic.social/@isinaltinkaya/109403400221652602/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://genomic.social/embed.js" async="async"></script>
+  <blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr">well, they’re being taught writing by being taught how to type. And that doesn’t make much sense.&quot; Leslie Lamport, from <a href="https://t.co/A9fjmPRXor">https://t.co/A9fjmPRXor</a></p>&mdash; Isin Altinkaya (@IsinAltinkaya) <a href="https://twitter.com/IsinAltinkaya/status/1594747442997743617?ref_src=twsrc%5Etfw">November 21, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
     <blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr">I genuinely enjoy writing. Writing feels like everything I have been trying to hold in my brain spills down onto the paper. You set the pieces of information free, and help them find their relatives and acquaintances to form a structure together. Eventually, they find their home.</p>&mdash; Isin Altinkaya (@IsinAltinkaya) <a href="https://twitter.com/IsinAltinkaya/status/1596050821363507202?ref_src=twsrc%5Etfw">November 25, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
   
