@@ -22,6 +22,8 @@ nav:
    link: "research"
  - name: "Blog"
    link: "blog"
+ - name: "Random"
+   link: "random"
  - name: "Contact"
    link: "contact"
 # - name: "Misc"
