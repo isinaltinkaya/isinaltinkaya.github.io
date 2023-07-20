@@ -23,5 +23,6 @@ You can contact me by e-mail at isin.altinkayaGGGGGGGG@sund.ku.dk, with poly-G t
 
 ---
 
-
+<!--
 <a href="https://stackexchange.com/users/10692365"><img src="https://stackexchange.com/users/flair/10692365.png?theme=dark" width="208" height="58" alt="profile for Isin Altinkaya on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Isin Altinkaya on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+-->
