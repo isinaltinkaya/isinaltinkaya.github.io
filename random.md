@@ -30,3 +30,10 @@ layout: default
 >
 > -- <cite>from _'Smoked Out_' by Jeff Carson, 2015 </cite>
 
+> With the passing of time, as well as the social evolution and genetic exchange, we ended up putting our conscience into the color of blood and in the salt of tears, and, as if that were not enough, we made our eyes into a kind of mirror turned in words, with the result that they often show without reserve what we are verbally trying to deny.
+>
+> -- <cite>from _'Blindness_' by José Saramago, 1995 </cite>
+
+> Words are like that, they deceive, they pile up, it seems they do not know where to go, and, suddenly, because of two or three or four that suddenly come out, simple in themselves, a personal pronoun, an adverb, a verb, an adjective, we have the excitement of seeing them coming irresistibly to the surface through the skin and the eyes and upsetting the composure of our feelings, sometimes the nerves that cannot bear it any longer, they put up with a great deal, they put up with everything, it was as if they were wearing armor, we might say.
+>
+> -- <cite>from _'Blindness_' by José Saramago, 1995 </cite>
