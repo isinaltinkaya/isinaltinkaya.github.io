@@ -37,3 +37,11 @@ layout: default
 > Words are like that, they deceive, they pile up, it seems they do not know where to go, and, suddenly, because of two or three or four that suddenly come out, simple in themselves, a personal pronoun, an adverb, a verb, an adjective, we have the excitement of seeing them coming irresistibly to the surface through the skin and the eyes and upsetting the composure of our feelings, sometimes the nerves that cannot bear it any longer, they put up with a great deal, they put up with everything, it was as if they were wearing armor, we might say.
 >
 > -- <cite>from _'Blindness_' by José Saramago, 1995 </cite>
+
+> What I'm really scared of is believing the words society makes me speak are my own.
+>
+> -- <cite>from _'Earthlings_' by Sayaka Murata, 2018 </cite>
+
+> So the manual for life already existed. It was just that it was already ingrained in everyone’s heads, and there wasn’t any need to put it in writing. The specific form of what is considered an ordinary person had been there all along, unchanged since prehistoric times I finally realized.
+>
+> -- <cite>from _'Convenience Store Woman_' by Sayaka Murata, 2016 </cite>
