@@ -7,6 +7,8 @@ layout: default
 <a href="https://www.github.com/isinaltinkaya">Check my GitHub profile!</a> 
 
 <html>
+
+  <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Excited to share our new preprint, which I had the privilege of contributing to! Huge shoutout to Fulya (first author) for her outstanding work.<br><br>&quot;Ancient genomics support deep divergence between Eastern and Western Mediterranean Indo-European languages&quot;<a href="https://t.co/181dpKtpnz">https://t.co/181dpKtpnz</a></p>&mdash; Isin Altinkaya (@IsinAltinkaya) <a href="https://twitter.com/IsinAltinkaya/status/1864026568130957476?ref_src=twsrc%5Etfw">December 3, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
   
   <blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr">How can <a href="https://twitter.com/hashtag/ChatGPT?src=hash&amp;ref_src=twsrc%5Etfw">#ChatGPT</a> help you use R? <br><br>Help you... <br>-&gt; Plot your data?<br>-&gt; Transform it?<br>-&gt; Or just have a casual chat about the meaning of life while you look like you are working?<br><br>A tutorial (and an experimental R wrapper <br> gptchatter):<a href="https://t.co/XYiMhbWUH8">https://t.co/XYiMhbWUH8</a><a href="https://twitter.com/hashtag/DataScience?src=hash&amp;ref_src=twsrc%5Etfw">#DataScience</a> 1/n <a href="https://t.co/LaTm5Z78Y1">pic.twitter.com/LaTm5Z78Y1</a></p>&mdash; Isin Altinkaya (@IsinAltinkaya) <a href="https://twitter.com/IsinAltinkaya/status/1599440535529623552?ref_src=twsrc%5Etfw">December 4, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
   
