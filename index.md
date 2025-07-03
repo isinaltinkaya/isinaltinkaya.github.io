@@ -6,15 +6,15 @@ layout: default
 
 
 <!--<img class="profile-picture" src="sherlock.jpg">-->
+I’m a Postdoctoral Researcher at the University of Cologne, working in the Center for [Predictability in Evolution](https://crc1310.uni-koeln.de/), within the Evolutionary Bioinformatics subgroup at the Institute for Biological Physics.
 
-I am a Ph.D. fellow at the University of Copenhagen, supervised by [Thorfinn Sand Korneliussen](https://scholar.google.com/citations?user=-YNWF4AAAAAJ&hl=en&oi=ao) and [Rasmus Nielsen](https://scholar.google.com/citations?hl=en&user=PySbfcEAAAAJ).
+I completed my Ph.D. at the University of Copenhagen, where I was supervised by [Thorfinn Sand Korneliussen](https://scholar.google.com/citations?user=-YNWF4AAAAAJ&hl=en&oi=ao) and [Rasmus Nielsen](https://scholar.google.com/citations?hl=en&user=PySbfcEAAAAJ).
 
-I am interested in bioinformatics, population genetics and statistical genomics. More specifically, my research interest revolves around developing novel methods and statistical frameworks aiming to disentangle evolutionary histories of populations, and implementing these methods into fast and efficient software.
+At the core of my research is a simple but ambitious question: How can we predict evolution? I approach this through computational and statistical modeling, drawing on methods from bioinformatics, genomics, and evolutionary theory. I develop mathematical models and computational methods to predict evolution, focusing on forecasting evolutionary outcomes and uncovering the underlying constraints that shape them.
 
 I am a Linux geek (`\insert` _[\<i use arch btw\>](https://knowyourmeme.com/memes/btw-i-use-arch)_ & [i3wm](https://i3wm.org/) & [vim](https://levelup.gitconnected.com/why-every-software-engineer-should-use-vim-b9fb97e69d97)). I love statically-typed & systems programming languages, and investigating/finding/fixing/thinking-about bugs, especially the most sneaky and annoying ones. I enjoy [reading](https://www.goodreads.com/user/show/52534989-isin-altinkaya), writing (available on demand!), video games, maths & stats, programming, stoicism, rambling about philosophy and existentialism, playing piano & electric guitar, bullet & blitz chess, skateboarding and speedcubing.
 
-
-You can contact me by e-mail at isin.altinkayaGGGGGGGG@sund.ku.dk, with poly-G tail removed.
+You can contact me by e-mail at isinaltinkaya[at]gmail.com.
 
 <br>
 <img src="https://ghchart.rshah.org/isinaltinkaya" />
