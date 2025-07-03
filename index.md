@@ -6,7 +6,7 @@ layout: default
 
 
 <!--<img class="profile-picture" src="sherlock.jpg">-->
-I’m a Postdoctoral Researcher at the University of Cologne, working in the Center for [Predictability in Evolution](https://crc1310.uni-koeln.de/), within the Evolutionary Bioinformatics subgroup at the Institute for Biological Physics.
+I’m a Postdoctoral Researcher at the University of Cologne, working in the [Center for Predictability in Evolution](https://crc1310.uni-koeln.de/), within the Evolutionary Bioinformatics subgroup at the Institute for Biological Physics.
 
 I completed my Ph.D. at the University of Copenhagen, where I was supervised by [Thorfinn Sand Korneliussen](https://scholar.google.com/citations?user=-YNWF4AAAAAJ&hl=en&oi=ao) and [Rasmus Nielsen](https://scholar.google.com/citations?hl=en&user=PySbfcEAAAAJ).
 
