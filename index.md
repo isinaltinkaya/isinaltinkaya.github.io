@@ -6,8 +6,6 @@ layout: default
 
 
 <!--<img class="profile-picture" src="sherlock.jpg">-->
-I’m a Postdoctoral Researcher at the University of Cologne, working in the [Center for Predictability in Evolution](https://crc1310.uni-koeln.de/), within the Evolutionary Bioinformatics subgroup at the Institute for Biological Physics.
-
 I completed my Ph.D. at the University of Copenhagen, where I was supervised by [Thorfinn Sand Korneliussen](https://scholar.google.com/citations?user=-YNWF4AAAAAJ&hl=en&oi=ao) and [Rasmus Nielsen](https://scholar.google.com/citations?hl=en&user=PySbfcEAAAAJ).
 
 At the core of my research is a simple but ambitious question: How can we predict evolution? I approach this through computational and statistical modeling, drawing on methods from bioinformatics, genomics, and evolutionary theory. I develop mathematical models and computational methods to predict evolution, focusing on forecasting evolutionary outcomes and uncovering the underlying constraints that shape them.
@@ -16,8 +14,10 @@ I am a Linux geek (`\insert` _[\<i use arch btw\>](https://knowyourmeme.com/meme
 
 You can contact me by e-mail at isinaltinkaya[at]gmail.com.
 
+<!--TODOOOO!
 <br>
 <img src="https://ghchart.rshah.org/isinaltinkaya" />
+-->
 
 <!--
 ![Isin's github stats](https://github-readme-stats.vercel.app/api?username=isinaltinkaya&show_icons=true&theme=dark&count_private=true&hide_rank=true)
